@@ -1,7 +1,10 @@
-/** @author SonicandTailsCD
- *
+/**
  * 
  */
+/**
+ * @author SonicandTailsCD
+ *
+ */
 module Roboticraft {
-    requires java.xml;
+	requires java.xml;
 }
